@@ -44,8 +44,7 @@ Undesirable And unwanted junk email is known as spam. It is sometimes distribute
 
 ### 💎 Key Features <a name="key-features"></a>
 
-- In our model the target feature is classification based so, we will use Classifier Machine-Learning models.
--
+-  In our model the target feature is classification based so, we will use Classifier Machine-Learning models.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
