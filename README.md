@@ -92,10 +92,13 @@ Clone this repository to your desired folder:
 I am always looking for ways to improve my project. If you have any suggestions or ideas, I would love to hear from you.
 
 [![Github](https://img.shields.io/badge/GitHub-673AB7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roniy68)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahroniy)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahroniy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.hasan.rony@gmail.com)
 
+
+[![Github](https://img.shields.io/badge/GitHub-673AB7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruf-98)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maruf-hasan-7bb016210?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BLe7kAMR%2FQE6jyWb2LoF7Zg%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maruf.hasan.taposh@g.bracu.ac.bd)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
