@@ -4,7 +4,7 @@
 
 <div align="center">
 
-ATG-Maruf
+Abrar Tahmid Galib-Maruf Hasan
   <br/>
 
   <h3><b>Spam Mail Detection</b></h3>
