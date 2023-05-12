@@ -30,7 +30,7 @@ ATG-Maruf
 
 # 📊 Spam Mail Detection <a name="about-project"></a>
 
-Undesirable And unwanted junk email is known as spam. It is sometimes distributed in large quantities to broad reciepient. 
+Undesirable And unwanted junk email is known as spam. It is sometimes distributed in large quantities to broad reciepient.Spam is typically transmitted for financial gain. Botnets, or networks of infected computers, are capable of sending it in large quantities.
 
 
 
@@ -44,7 +44,7 @@ Undesirable And unwanted junk email is known as spam. It is sometimes distribute
 
 ### 💎 Key Features <a name="key-features"></a>
 
-- Spam Detection 
+- In our model the target feature is classification based so, we will use Classifier Machine-Learning models.
 -
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -101,8 +101,8 @@ I am always looking for ways to improve my project. If you have any suggestions 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [x] **Mobile UI**
-- [ ] **Visualize contribution**
+- [x] if we get more data and use more algorithmwe,we can detect more spam mail.So we will try to use these in future. 
+- [ ] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
