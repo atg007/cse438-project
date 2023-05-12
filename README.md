@@ -101,7 +101,6 @@ I am always looking for ways to improve my project. If you have any suggestions 
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [x] if we get more data and use more algorithmwe,we can detect more spam mail.So we will try to use these in future. 
-- [ ] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
