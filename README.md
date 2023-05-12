@@ -114,8 +114,8 @@ I am always looking for ways to improve my project. If you have any suggestions 
 <!-- CONTRIBUTING -->
 ## 📧 Authors <a name="authors"></a>
 
-- ***[Ahmed Hasan Rony](https://github.com/roniy68)***
-- ***[Nwadinigwe Victor chiemerie](https://github.com/Victor-chiemerie)***
+- ***[Abrar Tahmid Galib](https://github.com/atg007)***
+- ***[Maruf Hasan Taposh]([https://github.com/Victor-chiemerie](https://www.linkedin.com/in/maruf-hasan-7bb016210?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BCbopaULnQtiggvpjY40fUQ%3D%3D))***
 
 ## 🤝 Contributing <a name="contributing"></a>
 
