@@ -18,7 +18,7 @@ ATG-Maruf
     - [🧰 Tech Stack ](#-tech-stack-)
     - [💎 Key Features ](#-key-features-)
   - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
+
   - [📧 Contact ](#-contact-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
