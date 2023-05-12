@@ -115,7 +115,7 @@ I am always looking for ways to improve my project. If you have any suggestions 
 ## 📧 Authors <a name="authors"></a>
 
 - ***[Abrar Tahmid Galib](https://github.com/atg007)***
-- ***[Maruf Hasan Taposh]([https://github.com/Victor-chiemerie](https://www.linkedin.com/in/maruf-hasan-7bb016210))***
+- ***[Maruf Hasan Taposh](https://www.linkedin.com/in/maruf-hasan-7bb016210)***
 
 ## 🤝 Contributing <a name="contributing"></a>
 
