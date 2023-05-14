@@ -18,8 +18,8 @@ Abrar Tahmid Galib-Maruf Hasan
     - [🧰 Tech Stack ](#-tech-stack-)
     - [💎 Key Features ](#-key-features-)
   - [🚀 Live Demo ](#-live-demo-)
-
   - [📧 Contact ](#-contact-)
+  - [🧰 Slide ](#-Slide-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [💖 Show your support ](#-show-your-support-)
@@ -95,6 +95,16 @@ I am always looking for ways to improve my project. If you have any suggestions 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maruf.hasan.taposh@g.bracu.ac.bd)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🧰 Slide <a name="Slide"></a>
+
+***Slide*** :  [Slide Link]([https://youtu.be/sqENuzUXpBY](https://www.canva.com/design/DAFi3n5bsJQ/eJ07TrxLkQgAa6AqyTRuqg/edit?utm_content=DAFi3n5bsJQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
 
 <!-- FUTURE FEATURES -->
 
