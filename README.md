@@ -98,7 +98,7 @@ I am always looking for ways to improve my project. If you have any suggestions 
 
 ## 🧰 Slide <a name="Slide"></a>
 
-***Slide*** :  [Slide Link]([https://youtu.be/sqENuzUXpBY](https://www.canva.com/design/DAFi3n5bsJQ/eJ07TrxLkQgAa6AqyTRuqg/edit?utm_content=DAFi3n5bsJQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+***Slide*** :  [Slide Link](https://www.canva.com/design/DAFi3n5bsJQ/eJ07TrxLkQgAa6AqyTRuqg/edit?utm_content=DAFi3n5bsJQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
