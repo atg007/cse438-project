@@ -55,6 +55,7 @@ Undesirable And unwanted junk email is known as spam. It is sometimes distribute
 ***Live*** :  [Presentation's Video Link](https://youtu.be/sqENuzUXpBY)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+![image](https://github.com/atg007/cse438-project/assets/108114623/5a21eaf2-8879-4b91-9d5d-cb2078749a26)
 
 <!-- GETTING STARTED -->
 
